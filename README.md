@@ -9,19 +9,19 @@
 <h1 align="center"></h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/agostinhomarcia/projeto-doguinho?color=008B8B">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/agostinhomarcia/Dark?color=00BFFF">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/agostinhomarcia/projeto-doguinho?color=008B8B">
-<!-- 
-  <img alt="Repository size" src="https://img.shields.io/agostinhomarcia/projeto-doguinho?color=008B8B"> -->
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/agostinhomarcia/Dark?color=00BFFF">
 
-  <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/projeto-doguinho?color=008B8B">
+  <!-- <img alt="Repository size" src="https://img.shields.io/agostinhomarcia/Dark?color=008B8B"> -->
 
-   <img alt="Github issues" src="https://img.shields.io/github/issues/agostinhomarcia/projeto-doguinho?color=008B8B" />
+  <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/Dark?color=00BFFF">
 
-   <img alt="Github forks" src="https://img.shields.io/github/forks/agostinhomarcia/projeto-doguinho?color=008B8B" />
+   <img alt="Github issues" src="https://img.shields.io/github/issues/agostinhomarcia/Dark?color=00BFFF" />
 
-   <img alt="Github stars" src="https://img.shields.io/github/stars/agostinhomarcia/projeto-doguinho?color=008B8B" /> 
+   <img alt="Github forks" src="https://img.shields.io/github/forks/agostinhomarcia/Dark?color=00BFFF" />
+
+   <img alt="Github stars" src="https://img.shields.io/github/stars/agostinhomarcia/Dark?color=00BFFF" /> 
 </p>
 
 <p align="center">
@@ -68,9 +68,9 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/agostinhomarcia/projeto-doguinho.git
+$ git clone https://github.com/agostinhomarcia/Dark.git
 # Access
-$ cd projeto-doguinho
+$ cd Dark
 # The server will initialize in the <http://localhost:3000>
 ```
 
